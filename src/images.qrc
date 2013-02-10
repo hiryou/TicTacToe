@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/new-game.png</file>
+        <file>images/o-win.png</file>
+        <file>images/x-win.png</file>
+        <file>images/draw.png</file>
+        <file>images/game_icon.png</file>
+        <file>images/board-bg.jpg</file>
+        <file>images/x-color.png</file>
+        <file>images/o-color.png</file>
+        <file>images/cell-bg.png</file>
+        <file>images/x-solid.png</file>
+        <file>images/o-solid.png</file>
+    </qresource>
+</RCC>
